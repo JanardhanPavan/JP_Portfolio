@@ -74,7 +74,7 @@ JP_Portfolio/
 
 ## 📬 Contact
 
-Janardhan Pavan – [your-email@gmail.com](mailto:j.pavan5803@gmail.com) · [LinkedIn](https://www.linkedin.com/in/janardhan-pavan-25130127b/) · [GitHub](https://github.com/JanardhanPavan)
+Janardhan Pavan – [j.pavan5803@gmail.com](mailto:j.pavan5803@gmail.com) · [LinkedIn](https://www.linkedin.com/in/janardhan-pavan-25130127b/) · [GitHub](https://github.com/JanardhanPavan)
 
 ---
 
