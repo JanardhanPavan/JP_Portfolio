@@ -4,7 +4,6 @@
 
 My personal portfolio website — showcasing my projects, skills, and experience as a full-stack developer.
 
-[Live Demo](#) · [Report Bug](https://github.com/JanardhanPavan/JP_Portfolio/issues) · [Request Feature](https://github.com/JanardhanPavan/JP_Portfolio/issues)
 
 </div>
 
@@ -75,11 +74,7 @@ JP_Portfolio/
 
 ## 📬 Contact
 
-Janardhan Pavan – [your-email@gmail.com](mailto:your-email@gmail.com) · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/JanardhanPavan)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+Janardhan Pavan – [your-email@gmail.com](mailto:j.pavan5803@gmail.com) · [LinkedIn](https://www.linkedin.com/in/janardhan-pavan-25130127b/) · [GitHub](https://github.com/JanardhanPavan)
 
 ---
 
